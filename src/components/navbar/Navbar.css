@@ -44,6 +44,11 @@
   background: #ff4141;
 }
 
+.nav-item {
+  text-decoration: none;
+  color: #626262;
+}
+
 .nav-login-cart {
   display: flex;
   align-items: center;
